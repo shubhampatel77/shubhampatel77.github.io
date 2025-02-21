@@ -31,4 +31,4 @@ I enjoy tackling challenging technical problems - from designing data processing
 
 # 🤝 Open Source & Community
 
-I'm passionate about making AI more accessible by contributing to open-source AI tools and libraries, sharing technical insights through blog posts (more coming soon) and building practical solutions for real-world problems. 
+I'm passionate about making AI more accessible by contributing to open-source AI tools and libraries, sharing technical insights through blog posts (more coming soon) and building practical solutions for real-world problems.
