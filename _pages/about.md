@@ -14,7 +14,7 @@ Broadly, I'm interested in making <b>efficient and capable AI</b> systems, with 
 
 I enjoy tackling challenging technical problems - from designing data processing pipelines and implementing complex model architectures to developing optimization frameworks.
 
-<i><b>I am on the academic job market for 2025! Feel free to reach out to me if you find my work relevant!</b></i>
+<b>I am on the academic job market for 2025! Feel free to reach out to me if you find my work relevant!</b>
 
 # 📋 Experience 
 
@@ -30,5 +30,4 @@ I enjoy tackling challenging technical problems - from designing data processing
 
 
 # 🤝 Open Source & Community
-
 I'm passionate about making AI more accessible by contributing to open-source AI tools and libraries, sharing technical insights through blog posts (more coming soon) and building practical solutions for real-world problems.
