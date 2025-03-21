@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 I am a Master's student in Computer Science at The University of Texas at Dallas, where I've worked with Prof. [Vincent Ng](https://personal.utdallas.edu/~vince/){:target="_blank"} on optimizing retrieval-augmented generation (RAG) models and Prof. [Yapeng Tian](https://www.yapengtian.com/index.html){:target="_blank"} on computer vision problems. Previously, I completed my B.Tech at the Indian Institute of Technology Madras (IITM).
 
 Broadly, I'm interested in making <b>efficient and capable AI</b> systems, with a focus on LLMs and multimodal learning. My current research spans optimization of RAG systems, where I've developed novel frameworks for joint optimization of retrievers and LLMs. Previously, I've worked on developing model architectures for combining visual and audio modalities for better performance on downstream tasks. I've also developed methods for personalized image editing using diffusion models.
