@@ -18,15 +18,21 @@ I enjoy tackling challenging technical problems - from designing data processing
 
 # 📋 Experience 
 
-- **Optimizing RAG Models**: Developed an end-to-end fine-tuning framework enabling joint optimization of retriever and generator components in RAG settings. Created information-theoretic scoring mechanisms for strategic document selection, achieving 30% performance improvement per memory unit. Open-sourced as [ContextFlow](https://github.com/shubhampatel77/contextflow){:target="_blank"}  with comprehensive documentation and HuggingFace integration.
+- **RAG Framework Engineering**: Designed and implemented an end-to-end optimization framework for LLMs that overcomes prompt augmentation non-differentiability, enabling gradient flow to retrievers in RAG systems. Developed custom information-theoretic document selection algorithms that achieved 30% accuracy improvement per memory unit.
 
-- **Scalable System**: Built distributed training and deployment infrastructure using Ray and MLflow, enabling parallelized reinforcement learning (PPO) and fine-tuning of vision transformers with 35% faster convergence. Integrated Docker and Kubernetes to streamline GPU resource management, reducing setup time by 95%.
+- **ML Infrastructure Optimization**: Engineered comprehensive memory optimization techniques including mixed precision training, 8-bit quantization, 8-bit optimizers and gradient checkpointing, resulting in 70% memory reduction while maintaining model performance for Llama-3-8B deployments.
 
-- **Retrieval System**: Developed a hybrid BM25/dense retrieval system leveraging Elasticsearch and FAISS with custom length-aware chunking, improving context retention by 40% in human evaluations. Deployed intelligent document chunking with dynamic index updates on AWS ECS with auto-scaling.
+- **Multimodal Architecture Development**: Created a transformer-based system for active speaker detection that successfully aligns temporal audio features with visual embeddings through innovative cross-attention mechanisms. Built complete pipeline from data processing to evaluation logic.
 
-- **Computer Vision**: Designed a novel cross-attention mechanism aligning temporal audio features with spatial embeddings for active speaker detection. Built an automated annotation pipeline for face tracking and developed efficient Python tools for speaker activity labeling. System demonstrates robust performance in noisy environments with multiple speakers.
+- **Annotation & Data Pipeline Engineering**: Developed an automated annotation system with multi-face detection and tracking algorithms plus an efficient UI design, reducing labeling time by 75% while maintaining annotation quality for multimodal training.
 
-- **Diffusion models**: Implemented a two-stage fine-tuning approach for diffusion models enabling single-image personalization through careful regularization and token binding. Developed custom loss functions and training strategies to maintain model generalization while achieving high-fidelity instance integration. Feel free to check out my [blog post](/posts/2024/07/blog-post-1/).
+- **Fine-tuning System Design**: Implemented a novel two-stage approach for diffusion models enabling personalized image editing with high semantic compatibility (CLIP-T score of 29) and strong perceptual similarity (LPIPS of 0.2) between source images and generated outputs. Feel free to check out my [blog post](/posts/2024/07/blog-post-1/).
+
+# Projects
+
+- **High-Performance Computing Platform**: Engineered a Linux-based distributed training infrastructure using Kubernetes for container orchestration and dynamic resource allocation. Implemented custom monitoring dashboards and automated scaling policies for multi-GPU RLHF workloads, achieving 23% reduction in harmful outputs while maintaining 99.5% uptime.
+
+- **Service Reliability Engineering**: Developed containerized microservices on AWS ECS with Docker-based CI/CD pipelines and Linux performance tuning. Designed fault-tolerant architecture with ELK monitoring, TCP connection pooling, and MySQL sharding strategies that reduced deployment time by 37% and service latency by 28%.
 
 
 # 🤝 Open Source & Community
